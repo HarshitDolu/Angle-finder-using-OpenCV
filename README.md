@@ -3,7 +3,7 @@
 Simple angle finder between Points using OpenCv <br>
 Purpose: learning openCv
 
-
+ <img src="https://github.com/HarshitDolu/Face-Recognition-Attendance-System/blob/main/Screenshot%20(386).png" width="900">
 
 This project is find the exact angle between points selected on any test image<br>
 concept is simple:
